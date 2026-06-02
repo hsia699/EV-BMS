@@ -1,12 +1,12 @@
-System Architecture
-System Ibjective
+# System Architecture
+# System Objective
 - Simulate a simplified EV BMS using Arduino-based
   ADC acquisition and real-time display output.
 
-High-Level Flow
+# High-Level Flow
 Voltage Input -> ADC Acquisition -> SOC Estimation -> Display UI -> Serial Logging
 
-Function Modules
+# Function Modules
 - ADC Module: Read analog voltage values
 - SOC Estimator: Convert voltage into battery percentage
 - Display UI: Display real-time voltage and battery percentage
