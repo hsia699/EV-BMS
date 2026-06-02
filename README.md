@@ -6,7 +6,7 @@ Project Overview
 - Using Arduino-based ADC acquisition, SOC estimation, real-time display output, and validation-oriented debug logging.
 
 System Architecture
-Battery's voltage -> ADC acquisition -> SOC estimation -> Display UI -> Serial logging
+- Battery's voltage -> ADC acquisition -> SOC estimation -> Display UI -> Serial logging
 
 Hardware Component
 - Arduino Uno
